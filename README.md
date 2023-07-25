@@ -3,6 +3,8 @@
 This is a fully responsive Audi website I coded after taking inspiration from Audi itself, lol.
 
 ![Website Page](/img.png)
+Live demo: [www.audi-mock.com](https://audi-landing-page.vercel.app/)
+
 
 **This project is open source**
 
@@ -11,4 +13,5 @@ This is a fully responsive Audi website I coded after taking inspiration from Au
 
 - NB: Just in case you see a different design on Audi.com know that this design was coded on the 18th of July 2023 using: **HTML 5, Vue Js, and CSS 3**.
 
-- Happy coding, on to the next one!🧑‍💻
+- Happy coding, on to the next bug!🕵️‍♂️
+  

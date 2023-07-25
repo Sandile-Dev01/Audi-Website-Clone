@@ -12,6 +12,9 @@ Live demo: [www.audi-mock.com](https://audi-landing-page.vercel.app/)
 - if you do a pull request I will be available 90% of the time to monitor your commit for merging into the main branch.
 
 - NB: Just in case you see a different design on Audi.com know that this design was coded on the 18th of July 2023 using: **HTML 5, Vue Js, and CSS 3**.
+- ![Website Page](/image2.png)
 
 - Happy coding, on to the next bug!🕵️‍♂️
+
+- 
   

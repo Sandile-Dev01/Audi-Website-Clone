@@ -2,6 +2,8 @@
 
 This is a fully responsive Audi website I coded after taking inspiration from Audi itself, lol.
 
+![Website Page](/img.png)
+
 **This project is open source**
 
 - Feel free to clone it on your machine and tweak it however you see fit,

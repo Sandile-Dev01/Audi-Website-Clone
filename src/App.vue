@@ -20,14 +20,14 @@
     Then apply for the Ingolstadt site!"
       />
       <Current_topics
-        image="https://www.audi.com/content/dam/gbp2/innovation/development/rear-lights/1920x1080_A191488_medium.jpg?imwidth=477&imdensity=1"
-        sub_title="Digitalization - 05/12/2023"
+        image="https://wallpapercat.com/w/full/5/f/2/3006-1920x1080-desktop-1080p-audi-background.jpg"
+        sub_title="Digitalization - 11/22/2024"
         title="Light : At the heart of Audi's DNA"
         text="Audi is revolutionizing light design with digital OLED rear lights. The innovative technology how the car communicates with its environment"
       />
       <Current_topics
         image="https://robbreport.com/wp-content/uploads/2021/03/audiicengines.jpg?w=1000"
-        sub_title="Value Creation & Production - 03/16/2023"
+        sub_title="Value Creation & Production - 09/25/2024"
         title="Back to a new life"
         text="Does the circular economy in the automotive industry work in practice as well as in theory?
          Audi is attempting to find this out and is testing how to close as many material cycles on balance as 
@@ -45,17 +45,17 @@
     <div class="topics">
       <Press_releases
         image="https://www.audi.com/content/dam/gbp2/2023/Homepage/Pressemitteilungen/1920x1080_A233591_large.jpg?imwidth=477&imdensity=1"
-        sub_title=" - 07/12/2023"
+        sub_title=" - 07/12/2024"
         title="Trainee project at Audi Neckarsulm: NSU Prinz with e-tron power"
       />
       <Press_releases
         image="https://www.audi.com/content/dam/gbp2/2023/Homepage/Pressemitteilungen/1920x1080_A233576_large.jpg?imwidth=477&imdensity=1"
-        sub_title=" - 07/06/2023"
+        sub_title=" - 11/12/2024"
         title="Audi creates 500 new electric mobility jobs at its Ingolstadt location"
       />
       <Press_releases
         image="https://www.audi.com/content/dam/gbp2/2023/Homepage/Pressemitteilungen/1920x1080_A233164_large.jpg?imwidth=477&imdensity=1"
-        sub_title="- 06/29/2023"
+        sub_title="- 12/10/2024"
         title="Gernot Döllner named as new Audi CEO"
       />
     </div>

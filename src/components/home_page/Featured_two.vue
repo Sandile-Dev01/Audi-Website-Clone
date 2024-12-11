@@ -3,12 +3,12 @@
     <div class="featured_container">
       <picture>
         <img
-          src="https://www.audi.com/content/dam/gbp2/career-n/Working-at-Audi/Arbeitgeberkampagne_2023/1920x1080_T4_Tiantian_DSC09637.jpg?imwidth=792&imdensity=1"
-          alt=""
+          src="https://media.drive.com.au/obj/tx_q:50,rs:auto:1920:1080:1/driveau/upload/cms/uploads/LqeLxZ1RTJGnLCvgTCuk"
+          alt="An image of an AUDI concept car"
         />
       </picture>
       <span class="featured_text">
-        <h1>#WorkingInProgres</h1>
+        <h1>#WorkingInProgress</h1>
         <p>
           Help us to design the mobility of tomorrow. With cars that use
           state-of-the-art technology to offer an awesome driving experience

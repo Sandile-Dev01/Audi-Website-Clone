@@ -2,8 +2,10 @@
   <div class="topics_item">
     <div class="home_img">
       <div class="layout"></div>
+
       <img :src="image" alt="IMG" />
     </div>
+
     <p class="sub_title">{{ sub_title }}</p>
     <h2>{{ title }}</h2>
     <p>
@@ -35,10 +37,12 @@ export default {
     color: var(--dark-accent);
     letter-spacing: 1.5px;
     font-size: 0.8rem;
+    padding-top: 0.25rem;
   }
 
   .home_img {
     width: 100%;
+    height: 60%;
     object-fit: cover;
     position: relative;
     overflow: hidden;
@@ -46,6 +50,7 @@ export default {
 
   img {
     width: 100%;
+    height: 100%;
     overflow: hidden;
     transition: var(--transition-1);
   }

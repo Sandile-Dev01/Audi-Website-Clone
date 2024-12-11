@@ -20,8 +20,8 @@
       </span>
       <picture>
         <img
-          src="https://www.audi.com/content/dam/progress/landingpages/e-tron-range/KV1-RS%20e-tron_GrandSphere_RGB4_1920x1080.jpg?imwidth=792&imdensity=1"
-          alt=""
+          src="https://www.progress.audi/content/dam/progress/story/2021/wow-audi-grandsphere-concept/1920x1080-desktop-M21-Audi-grandsphere-concept-09821B01.jpg?imwidth=1920&imdensity=1"
+          alt="An AUDI concept car"
         />
       </picture>
     </div>
